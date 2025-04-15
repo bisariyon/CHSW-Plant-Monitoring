@@ -1,6 +1,6 @@
 # Deployed app
 
-https://practical-perlman2-eu7js.view-3.tempo-dev.app/?framework=VITE
+https://tempo-deployment-9d2d082a-0d84-4e1d-a204-61820cc8454-91wmvlduu.vercel.app/
 
 # React + TypeScript + Vite
 
